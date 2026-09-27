@@ -1,42 +1,10 @@
-# {{PROJECT_NAME}}
+# blobs
 
-{{One-line tagline describing the project}}
+iOS blobs backup for my iDevice.
 
 ## About
 
-{{Paragraph describing what the project does, why it exists, and who it's for.}}
-
-## Features
-
-### {{Feature 1 Title}}
-{{Short paragraph describing the feature and its benefit.}}
-
-### {{Feature 2 Title}}
-{{Short paragraph describing the feature and its benefit.}}
-
-### {{Feature 3 Title}}
-{{Short paragraph describing the feature and its benefit.}}
-
-## Installation
-
-### Using a pre-built release
-1. Download the latest release from the [Releases](../../releases) page.
-2. {{Extraction / run instructions}}
-
-### Building from source
-```bash
-git clone https://github.com/enioaiello/{{REPO_NAME}}.git
-cd {{REPO_NAME}}
-{{build commands, e.g. make / npm install / cargo build --release}}
-```
-
-## Usage
-
-{{Basic usage example, commands, or code snippet}}
-
-```bash
-{{example command}}
-```
+blobs for all my iDevice (iPhone, iPod, iPad...).
 
 ## Contributing
 
